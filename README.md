@@ -1,7 +1,8 @@
+# PyQt
 A simple program with Python and PyQt5
 A small window with label and title that you can change to everything you want
 
-Requirements :
+Requirements:
 
 `PyQt5`
 `PyQt5-sip`
